@@ -2480,19 +2480,22 @@ input, select, textarea {
 			.image.main img {
 				width: 100%;
 			}
-
+			#merchvid {
+				width:35%;
+				
+			}
 			@media screen and (max-width: 736px) {
 
 				.image.main {
 					margin: 0 0 2em 0;
 					
 				}
-
+				#merchvid {
+					width:65%;
+					margin: 0 0 1em 0;
+				}
 			}
-		#merchvid {
-			width:35%;
-			
-		}
+		
 /* Table */
 
 	.table-wrapper {
