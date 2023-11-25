@@ -200,6 +200,9 @@ input, select, textarea {
 				font-size: 2em;
 				margin: 0 0 1em 0;
 			}
+			h1.subheader {
+				font-size: 1.8em;
+			}
 
 		}
 
@@ -2482,7 +2485,7 @@ input, select, textarea {
 
 				.image.main {
 					margin: 0 0 2em 0;
-					width: 50%;
+					
 				}
 
 			}
